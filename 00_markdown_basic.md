@@ -72,7 +72,7 @@ $ git push origin master
 - `![]()` 을 작성하고 `() `안에 이미지 주소를 입력합니다.` []` 안에는 이미지 파일의 이름을 작성합니다. 
 - 로컬에 이미파일을 저장한 경우 절대 경로가 아닌 상대 경로를 사용하여 이미지를 저장합니다.
 
-![git](C:\Users\HPE\Downloads\git image\git.PNG)
+![git](https://user-images.githubusercontent.com/42163107/71605148-38775200-2baa-11ea-936a-1741b536f5e7.PNG)
 
 
 
