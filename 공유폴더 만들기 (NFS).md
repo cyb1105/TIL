@@ -1,6 +1,6 @@
 ## 공유폴더 만들기 (NFS)
 
-### server
+### server(10.0.0.130)
 
 - nfs 설치 확인
 
@@ -47,7 +47,7 @@ systemctl stop firewalld
 
 --------
 
-### client
+### client(10.0.0.132)
 
 - nfs 설치확인
 
